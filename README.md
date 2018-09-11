@@ -2,7 +2,7 @@
 A low-friction task management system.
 
 ## Background
-I have tried every GTD approach and software application under the sun. Without fail they fall into two camps: not enough organization, or far too much organization. I finally developed a system that works well for me, is low-friction, and keeps me organized (even though by nature I am a very disorganized person.)
+I have tried every GTD approach and software application under the sun. Without fail they fall into two camps: not enough organisation, or far too much organisation. I finally developed a system that works well for me, is low-friction, and keeps me organised (even though by nature I am a very disorganised person.)
 
 The system has several benefits:
   * Answers the question of 'what do I do next?', which is the ultimate productivity killer.
@@ -13,7 +13,7 @@ The system has several benefits:
 
 The system consists of a number of folders, each containing a specific kind of text file. I use BBEdit and open the parent folder as a project so that I have all of my subfolders in a tree view with easy access to their enclosed documents. You should be able to do the same thing in the editor of your choice.
 
-![Sample Project View](https://github.com/CoralineAda/lftm/blob/master/example.png)
+![Sample Project View](./example.png)
 
 It's important to keep these as plain text files. Don't do markdown or anything like that; this will increase friction. Plain text is faster, and faster means that you'll actually use the system.
 
@@ -45,7 +45,7 @@ I also have a heading for `Reminders`, which consist of actionable feedback that
 Keep all your project notes in one place. Create a subfolder for each project, and one or more files in that subfolder for notes, goals, meetings, and so on. It's okay to have tasks in the project, just make sure to surface the ones that you will need to get to soon under the 'Soon' header in your work journal. This will actually help that 'Soon' group from growing too large to manage.
 
 ### Notes
-Create a separate document for each project that you have planned or in the works. Write down your thoughts and ideas, paste in URLs of relevant project docs, and write preliminary to-dos. Don't worry about over-organizing: this is a place for you to brain dump and free your mind from having to remember a thousand details.
+Create a separate document for each project that you have planned or in the works. Write down your thoughts and ideas, paste in URLs of relevant project docs, and write preliminary to-dos. Don't worry about over-organising: this is a place for you to brain dump and free your mind from having to remember a thousand details.
 
 ## How to Use The Journal
 When you start your day, pull a couple of items from your `Soon` heading up into the current day. As you work, take a few seconds to update the daily heading with what you're working on. Write down every task you completed or started, even if it feels minor. This will reinforce that you are a productive person and give you confidence in your ability to Get Shit Done.
